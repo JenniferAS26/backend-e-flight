@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Jennifer",
+      "userlastname": "Alarcon",
+      "phoneNumber": "3154281024",
+      "documentType": "pastport",
+      "documentNumber": "1088016820",
+      "email": "jalarcon@utp.edu.co",
+      "genre": "female",
+      "password": "123456",
+      "birthdate": "1993-12-26"
+    }
+  ],
+  "booking": [
+    {
+      "id": 1
+    }
+  ]
+}
