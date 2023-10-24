@@ -4,18 +4,66 @@
       "id": 1,
       "username": "Jennifer",
       "userlastname": "Alarcon",
-      "phoneNumber": "3154281024",
-      "documentType": "pastport",
-      "documentNumber": "1088016820",
-      "email": "jalarcon@utp.edu.co",
+      "phoneNumber": "325411589",
+      "documentType": "passport",
+      "documentNumber": "1088658941",
+      "email": "jennifer@gmail.com",
       "genre": "female",
       "password": "123456",
       "birthdate": "1993-12-26"
+    },
+    {
+      "id": 2,
+      "username": "Kelly",
+      "userlastname": "Saldaña",
+      "phoneNumber": "32136925874",
+      "documentType": "cc",
+      "documentNumber": "146359652",
+      "email": "kelly@email.com",
+      "genre": "female",
+      "password": "123456",
+      "birthdate": "1990-10-26"
+    },
+    {
+      "id": 3,
+      "username": "Crisitan",
+      "userlastname": "Loaiza",
+      "phoneNumber": "312552154",
+      "documentType": "cc",
+      "documentNumber": "146359652",
+      "email": "crisitan@email.com",
+      "genre": "male",
+      "password": "123456",
+      "birthdate": "2001-01-10"
+    },
+    {
+      "id": 4,
+      "username": "Monica",
+      "userlastname": "Rincon",
+      "phoneNumber": "3255411541",
+      "documentType": "cc",
+      "documentNumber": "31465153231",
+      "email": "monica@email.com",
+      "genre": "female",
+      "password": "123456",
+      "birthdate": "1990-10-26"
     }
+
   ],
   "booking": [
     {
       "id": 1
+    }
+  ],
+  "trips": [
+    {
+      "id": 1,
+      "arrival": "MAD",
+      "departure": "BOG",
+      "classesType": "ECONOMY",
+      "departureDate": "2023-10-28",
+      "passengers": "2",
+      "tripType": "round"
     }
   ]
 }
